@@ -1,0 +1,4 @@
+Készült: Laravel 6.2.0-val
+verzió megnézése:
+php artisan --version
+ezt a projekt mappájából indított cmd (vagy git bash) parancssorba kell beírni
